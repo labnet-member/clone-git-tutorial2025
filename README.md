@@ -9,7 +9,6 @@ Takato-Hayashi いいじゃん
 Takumi-Urano うっす
 Takumi-Harada hello World
 Takumi-Harada helllllll
-<<<<<<< HEAD
 ryota227 hello
 Takumi-Harada conflict
 nine0511 Hello World
