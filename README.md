@@ -9,8 +9,13 @@ Takato-Hayashi いいじゃん
 Takumi-Urano うっす
 Takumi-Harada hello World
 Takumi-Harada helllllll
+<<<<<<< HEAD
 owkland hitokoto
+=======
+Takumi-Harada conflict 
+matsu0403 Hi
+yagreezman ぴぴぴ
+>>>>>>> fa4387f5c43f96240ad857fbb9bcf7aa9266c9ba
 Takumi-Harada conflict
 yau5 hello 
 nine0511 Hello World
-
