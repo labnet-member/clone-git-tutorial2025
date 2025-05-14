@@ -10,6 +10,11 @@ Takumi-Urano うっす
 Takumi-Harada hello World
 Takumi-Harada helllllll
 ryota227 hello
+Takumi-Harada conflict 
+Sora-Miyamoto Hello
+matsu0403 Hi
+yagreezman ぴぴぴ
 Takumi-Harada conflict
+yau5 hello 
 nine0511 Hello World
 
