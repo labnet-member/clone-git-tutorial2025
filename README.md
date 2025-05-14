@@ -10,3 +10,7 @@ Takumi-Urano うっす
 Takumi-Harada hello World
 Takumi-Harada helllllll
 owkland hitokoto
+Takumi-Harada conflict
+yau5 hello 
+nine0511 Hello World
+
