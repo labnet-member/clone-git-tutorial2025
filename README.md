@@ -4,6 +4,7 @@
 これは、GitHubのクローンを練習するために作ったリポジトリです。
 以下に<user.name> <ひとこと>を書いてみましょう！
 --------------------------------------------------------------
+Yuma-Kira テスト
  Tomohiro-Taniguchi こんにちは
  Takato-Hayashi いいじゃん
  Takumi-Urano うっす
