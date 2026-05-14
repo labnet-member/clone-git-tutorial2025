@@ -1,6 +1,6 @@
 # clone-git-tutorial2025
 
-2025 年度実習ゼミ第 4 回 Git&amp;GitHub
+2026 年度実習ゼミ第 3 回 Git&amp;GitHub
 
 これは、GitHub のクローンを練習するために作ったリポジトリです。
 以下に<user.name> <ひとこと>を書いてみましょう！
