@@ -1,3 +1,4 @@
+
 # clone-git-tutorial2025
 
 2026 年度実習ゼミ第 3 回 Git&amp;GitHub
@@ -24,3 +25,4 @@ nine0511_2 Hello World
 harada こんばんは
 taniguchi hello
 Koni0922 hai
+HIGA TEST
