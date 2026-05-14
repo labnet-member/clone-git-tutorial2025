@@ -1,4 +1,4 @@
-# clone-git-tutorial2025
+# clone-git-tutorial2026
 
 2026 年度実習ゼミ第 3 回 Git&amp;GitHub
 
