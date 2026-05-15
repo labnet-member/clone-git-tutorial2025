@@ -34,3 +34,4 @@ TaigaYamasaki You are an idiot!!
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
 mao-starlight YZF-R7
+norari-cat hello everyone
