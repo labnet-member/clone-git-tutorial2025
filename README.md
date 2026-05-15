@@ -35,6 +35,9 @@ TaigaYamasaki You are an idiot!!
 Takuto-Iwamoto Hi, everyone.
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
+shuhei831 konnitiha
+
 asort03 なまこ
 mao-starlight YZF-R7
 norari-cat hello everyone
+
