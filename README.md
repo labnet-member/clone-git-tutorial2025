@@ -33,3 +33,4 @@ IkedaAkihira わあああ
 TaigaYamasaki You are an idiot!!
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
+shusaku-afk 撃沈
