@@ -28,4 +28,4 @@ Koni0922 hai
 HIGA TEST
 ZEROYONN04 conflict party
 taiki-honjo おっは～
-IkedaAkihira わあああ
+IkedaAkihira わああああああ！！！
