@@ -31,3 +31,4 @@ ZEROYONN04 conflict party
 taiki-honjo おっは～
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
+asort03 なまこ
