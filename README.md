@@ -38,4 +38,5 @@ Takuto-Iwamoto Hi, everyone.
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
 mao-starlight YZF-R7
+Takuma-lab-netizen Siuuu
 >>>>>>> ea0e09020f83e919c4cf945ba8aa6a5169683ecd
