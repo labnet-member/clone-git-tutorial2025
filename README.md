@@ -34,6 +34,7 @@ IkedaAkihira わあああ
 ALoe1224 ちゃ
 =======
 TaigaYamasaki You are an idiot!!
+Takuto-Iwamoto Hi, everyone.
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
 mao-starlight YZF-R7
