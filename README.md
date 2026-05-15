@@ -35,10 +35,7 @@ TaigaYamasaki You are an idiot!!
 Takuto-Iwamoto Hi, everyone.
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
-<<<<<<< HEAD
 shuhei831 konnitiha
-
-=======
 asort03 なまこ
 mao-starlight YZF-R7
->>>>>>> bfc637d5a53195c5b7344095fccd5674b35f0ac3
+
