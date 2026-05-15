@@ -26,3 +26,4 @@ harada こんばんは
 taniguchi hello
 Koni0922 hai
 HIGA TEST
+kouzi016 やあ！
