@@ -26,7 +26,15 @@ harada こんばんは
 taniguchi hello
 Koni0922 hai
 HIGA TEST
+kouzi016 やあ！
 ZEROYONN04 conflict party
 taiki-honjo おっは～
 IkedaAkihira わあああ
+<<<<<<< HEAD
 ALoe1224 ちゃ
+=======
+TaigaYamasaki You are an idiot!!
+IkedaAkihira わああああああ！！！
+TaigaYamasaki You are an idiot!!
+mao-starlight YZF-R7
+>>>>>>> ea0e09020f83e919c4cf945ba8aa6a5169683ecd
