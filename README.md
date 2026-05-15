@@ -32,3 +32,5 @@ taiki-honjo おっは～
 IkedaAkihira わあああ
 TaigaYamasaki You are an idiot!!
 Takuto-Iwamoto Hi, everyone.
+IkedaAkihira わああああああ！！！
+TaigaYamasaki You are an idiot!!
