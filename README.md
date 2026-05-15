@@ -30,7 +30,15 @@ kouzi016 やあ！
 ZEROYONN04 conflict party
 taiki-honjo おっは～
 IkedaAkihira わあああ
+ALoe1224 ちゃ
 TaigaYamasaki You are an idiot!!
+Takuto-Iwamoto Hi, everyone.
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
 shusaku-afk 撃沈
+shuhei831 konnitiha
+asort03 なまこ
+mao-starlight YZF-R7
+asort03 なまこ
+mao-starlight YZF-R7
+norari-cat hello everyone
