@@ -35,10 +35,13 @@ TaigaYamasaki You are an idiot!!
 Takuto-Iwamoto Hi, everyone.
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
-shusaku-afk 撃沈
+shusaku-afk 撃沈!!
 shuhei831 konnitiha
 asort03 なまこ
 mao-starlight YZF-R7
+Takuma-lab-netizen Siuuu
 asort03 なまこ
 mao-starlight YZF-R7
 norari-cat hello everyone
+
+Tomo-ya122 Hello
