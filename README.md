@@ -29,3 +29,4 @@ HIGA TEST
 ZEROYONN04 conflict party
 taiki-honjo おっは～
 IkedaAkihira わあああ
+TaigaYamasaki You are an idiot!!
