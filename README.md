@@ -29,6 +29,11 @@ HIGA TEST
 kouzi016 やあ！
 ZEROYONN04 conflict party
 taiki-honjo おっは～
+IkedaAkihira わあああ
+ALoe1224 ちゃ
+TaigaYamasaki You are an idiot!!
+Takuto-Iwamoto Hi, everyone.
 IkedaAkihira わああああああ！！！
 TaigaYamasaki You are an idiot!!
 asort03 なまこ
+mao-starlight YZF-R7
